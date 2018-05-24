@@ -1,11 +1,19 @@
 body {
   background-color: lightcyan;
+  font-family: 'Londrina Shadow';
 }
 
 .container-color {
-  color: navy;
+  color: black;
+  font-size: 1.5em;
 }
 
-.rows-modifier {
-  background-color: gray;
+.column-modifier {
+  background-color: azure;
+  color: black;
+}
+
+.jumbo-modifier {
+  background-color: azure;
+  color: black;
 }
