@@ -12,7 +12,7 @@ Create a website about vacationing in Japan.
 
 HTML, CSS, Bootstrap
 
-##installation
+## Installation
 Clone from https://github.com/Xamdes/vacation-japan.git
 or https://github.com/BatesColin/vacation-japan.git
 
